@@ -1,0 +1,5 @@
+Name: Keerthika Pondari
+Course: Data Science
+
+What I learned:
+GitHub helps in version control, tracking changes, and collaborating with team members efficiently.
